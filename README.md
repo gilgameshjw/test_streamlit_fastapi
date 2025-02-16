@@ -6,6 +6,7 @@ This project demonstrates how to integrate a FastAPI backend with a Streamlit fr
 
 - Python 3.8 or higher
 - `pip` installed
+- `make` (optional, for automation)
 
 ## Setup Instructions
 
